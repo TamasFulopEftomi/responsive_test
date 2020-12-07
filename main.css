@@ -1,0 +1,59 @@
+/* ==== CALCULATOR STYLES ==== */
+
+.s30 {
+  width: 2.5rem;
+  height: 1.5rem;
+}
+
+.s50 {
+  width: 4.2rem;
+  height: 1.5rem;
+}
+
+.s60 {
+  width: 5rem;
+  height: 1.5rem;
+}
+
+.first-row-first-title {
+  width: 15.9rem;
+  height: 1.5rem;
+}
+
+.second-row-first-title {
+  width: 8.4rem;
+  height: 1.5rem;
+}
+
+.third-row-first-title {
+  width: 15.9rem;
+  height: 1.5rem;
+}
+
+.fourth-row-first-title {
+  width: 7.5rem;
+  height: 1.5rem;
+}
+
+.fifth-row-first-title {
+  width: 15.9rem;
+  height: 1.5rem;
+}
+
+.sixth-row-title {
+  width: 24.3rem;
+  height: 1.5rem;
+}
+
+.eight-row-title {
+  width: 15.9rem;
+  height: 1.5rem;
+}
+.border {
+  border: 1px solid grey;
+}
+
+.hundred {
+  width: 88%;
+  height: 1.4rem;
+}
