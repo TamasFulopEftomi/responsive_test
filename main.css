@@ -1,59 +1,53 @@
 /* ==== CALCULATOR STYLES ==== */
 
-.s30 {
+.label_2_5 {
   width: 2.5rem;
   height: 1.5rem;
 }
 
-.s50 {
+.label_4_2 {
   width: 4.2rem;
   height: 1.5rem;
 }
 
-.s60 {
+.label_5 {
   width: 5rem;
   height: 1.5rem;
 }
 
-.first-row-first-title {
-  width: 15.9rem;
-  height: 1.5rem;
-}
-
-.second-row-first-title {
-  width: 8.4rem;
-  height: 1.5rem;
-}
-
-.third-row-first-title {
-  width: 15.9rem;
-  height: 1.5rem;
-}
-
-.fourth-row-first-title {
+.label_7_5 {
   width: 7.5rem;
   height: 1.5rem;
 }
 
-.fifth-row-first-title {
+.label_8_4 {
+  width: 8.4rem;
+  height: 1.5rem;
+}
+
+.label_11_7 {
+  width: 11.7rem;
+  height: 1.5rem;
+}
+
+.label_15_9 {
   width: 15.9rem;
   height: 1.5rem;
 }
 
-.sixth-row-title {
+.label_24_3 {
   width: 24.3rem;
   height: 1.5rem;
 }
 
-.eight-row-title {
-  width: 15.9rem;
-  height: 1.5rem;
-}
 .border {
   border: 1px solid grey;
+  margin-left: 0.3rem;
 }
 
-.hundred {
+
+.input_window {
   width: 88%;
   height: 1.4rem;
+  text-align: center;
 }
